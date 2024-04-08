@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ejercicio2herencia.paquete1","l":"Coche"},{"p":"ejercicio2herencia.paquete1","l":"CocheCambioAutomatico"},{"p":"ejercicio2herencia.paquete1","l":"CocheCambioManual"},{"p":"ejercicio2herencia.paquete1","l":"MatriculaInvalida"}];updateSearchResults();

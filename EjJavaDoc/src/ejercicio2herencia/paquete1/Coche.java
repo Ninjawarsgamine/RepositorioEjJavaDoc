@@ -42,7 +42,7 @@ public class Coche {
 		if (!matricula.matches("[0-9]{4}-[B-DF-HJ-NP-TV-Z]{3}")) {
 			//Expresión regular alternativa: doc.matches("[0-9]{4}[ -]?[A-Z &&[^AEIOU]]"
 			throw new MatriculaInvalida();
-			//Sacamos la excepción que hemos creado en otra clase usando "throw new excepcion"
+			//Sacamos la excepción que hemos creado en otra clase usando "throw new excepcion".
 		}
 	}
 	public int getVelocidad() {
